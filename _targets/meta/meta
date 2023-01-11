@@ -1,0 +1,11 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+.__NAMESPACE__.|object|e5204453d11986ed|||||||||||||||
+.__S3MethodsTable__.|object|53e05a0f51948f75|||||||||||||||
+.packageName|object|92b9c34f2da400e8|||||||||||||||
+fit_model|function|41f1b480634feca3|||||||||||||||
+hello|function|0844653942da9e72|||||||||||||||
+model|stem|7ff317d133acab8f|077928a2f1919eba|215f2932c711facd|1816327236||t19368.8585310848s|c4a62f0a1301ecbc|111|rds|local|vector|||0.024||
+plot|stem|6eefcb1357d2fc4d|33492fcdf2397506|6e4c586b4c472e0d|1931196220||t19368.8585357607s|b3aa703241cb7750|1077198|rds|local|vector|||0.012||
+plot_model|function|4742152ff9c5e440|||||||||||||||
+plot_stats|function|2b29bb998aa6176d|||||||||||||||
+plot1|stem|a6c4fed72a408acb|b930c585e2127c8c|101b66e3c2fc76f9|1351247401||t19368.8585305293s|6e4567ec0f92f76c|127593|rds|local|vector|||0.32||
