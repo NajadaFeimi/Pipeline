@@ -1,6 +1,6 @@
 library(targets)
 source("functions.R")
-tar_option_set(packages = c("readr", "dplyr", "ggplot2", "MyPackage"))
+tar_option_set(packages = c("readr", "dplyr", "ggplot2", "MyPackage", "remotes", "devtools"))
 tar_option_set(envir = getNamespace("MyPackage"))
 
 list(
