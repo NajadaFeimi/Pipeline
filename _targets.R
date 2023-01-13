@@ -5,6 +5,6 @@ tar_option_set(envir = getNamespace("MyPackage"))
 
 list(
   tar_target(model, fit_model(diamonds)),
-  tar_target(plot, plot_model(model, diamonds)),
-  tar_target(plot1, plot_stats(diamonds))
+  tar_target(plot_abline, plot_model(model)),
+  tar_target(plot_boxplot, plot_stats(diamonds))
 )
